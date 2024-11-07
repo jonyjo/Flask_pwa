@@ -1,0 +1,49 @@
+{
+  "short_name": "Fruit Classifier",
+  "name": "Fruit Classification and Grading App",
+  "description": "An app to classify and grade fruits using ML",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b3d91",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "cherry.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose" : "any"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "128x128",
+      "type": "image/ico",
+      "purpose" : "any"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose" : "any"
+    }
+    
+  ],
+      "screenshots": [    
+   {
+
+     "src": "Screenshot_1.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Application1"
+    },
+    {
+
+      "src": "Screenshot_2.png",
+       "sizes": "1920x1080",
+       "type": "image/png",
+       "form_factor": "narrow",
+       "label": "Application2"
+     }
+    ]
+}
