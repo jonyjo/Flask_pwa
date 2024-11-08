@@ -1,4 +1,4 @@
-const FLASK_API_URL = 'http://192.168.1.3:5000/testing'; // Set to the URL of your Flask API
+const FLASK_API_URL = 'http://192.168.1.5:5000/testing'; // Set to the URL of your Flask API
 
 async function login() {
     const username = document.getElementById("username").value;
